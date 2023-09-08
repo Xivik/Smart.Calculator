@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Smart Calculator (Java)/task/build/
+/Smart Calculator (Java)/task/out/
+/Smart Calculator (Java)/task/out/production/classes/
+/Topics/Comparable/Leaderboard/out/
+/Topics/Comparable/Leaderboard/out/production/classes/
+/Topics/Regexes in programs/Card name validation and identification/out/
+/Topics/Regexes in programs/Card name validation and identification/out/production/classes/
+/Topics/Regexes in programs/Safe password/out/
+/Topics/Regexes in programs/Safe password/out/production/classes/

@@ -1,0 +1,21 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    text: |-
+      import java.math.BigInteger;
+      
+      class DoubleFactorial {
+          public static BigInteger calcDoubleFactorial(int n) {
+              // type your java code here
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3474#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 08 Sep 2023 13:39:50 UTC"
+record: -1
+submission_language: java17
